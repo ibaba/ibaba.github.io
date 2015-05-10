@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于我们
-permalink: /about/
+permalink: /关于/
 ---
 
 Some information about you!
