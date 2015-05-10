@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于我们
 permalink: /about/
 ---
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[1124156048@qq.com](mailto:1124156048@qq.com)
