@@ -4,13 +4,19 @@ title: 关于我们
 permalink: /about/
 ---
 
-Some information about you!
+2009年1月，阿里巴巴扬州办事处正式成立！
+办事处地址：江苏省扬州市文昌西路56号公元国际大厦1012室
+目前所辖范围：扬州、泰州、淮安、宿迁、连云港及下属县市
+所辖业务范围：阿里巴巴国际站、外贸综合服务一达通、企业信用融资等客户服务
 
 ### 联系方式
 
+![_config.yml]({{ site.baseurl }}/images/contect.jpg)
 [1124156048@qq.com](mailto:1124156048@qq.com)
 
 ### 地址
+地址： 	文昌西路56号公元国际大厦10层1012 
+电话： 	18205251032
 
 ![_config.yml]({{ site.baseurl }}/images/map-2015-05-11 07-11-01.png)
 
